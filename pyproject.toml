@@ -22,7 +22,7 @@ dependencies = [
     "joblib==1.2.0",
     "numpy<2",
     "pipelinewise-singer-python>=1,<3",
-    "snowflake-connector-python[pandas]~=3.0",
+    "snowflake-connector-python[pandas]==4.7.5",
 ]
 
 [project.urls]
